@@ -2,7 +2,7 @@
 
 <b>Summary</b>
 
-Generates a random password with various criteria: min&max length, required number of lowercase&uppercase letters, required number of digits and required number of special characters. 
+Generates a random password with various criteria: min&max length, required number of lowercase&uppercase letters, required number of digits and required number of special characters. Now updated for UiPath Windows.
 
 <b>Benefits</b>
 
