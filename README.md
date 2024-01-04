@@ -1,4 +1,4 @@
-# UiPathTeam.GenerateRandomPassword.Activities
+# GenerateRandomPassword.Activities
 
 <b>Summary</b>
 

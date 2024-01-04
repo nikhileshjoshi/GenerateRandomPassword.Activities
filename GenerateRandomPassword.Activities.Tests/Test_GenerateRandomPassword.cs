@@ -4,7 +4,7 @@ using System.Linq;
 using System.Security.Cryptography;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace UiPathTeam.GenerateRandomPassword.Activities.Tests
+namespace GenerateRandomPassword.Activities.Tests
 {
     [TestClass]
     public class Test_GenerateRandomPassword

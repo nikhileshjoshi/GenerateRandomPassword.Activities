@@ -2,8 +2,8 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/UiPathTeam.GenerateRandomPassword.Activities/obj/Debug
-/.vs/UiPathTeam.GenerateRandomPassword.Activities/v15
-/UiPathTeam.GenerateRandomPassword.Activities.Tests/obj/Debug
-/UiPathTeam.GenerateRandomPassword.Activities.Tests/bin/Debug
-/UiPathTeam.GenerateRandomPassword.Activities/bin/Debug
+/GenerateRandomPassword.Activities/obj/Debug
+/.vs/GenerateRandomPassword.Activities/v15
+/GenerateRandomPassword.Activities.Tests/obj/Debug
+/GenerateRandomPassword.Activities.Tests/bin/Debug
+/GenerateRandomPassword.Activities/bin/Debug

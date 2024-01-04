@@ -5,7 +5,7 @@ using System.ComponentModel;
 using System.Linq;
 using System.Security.Cryptography;
 
-namespace UiPathTeam.GenerateRandomPassword.Activities
+namespace GenerateRandomPassword.Activities
 {
     [DisplayName("Generate Random Password")]
     public class GenerateRandomPassword: CodeActivity
